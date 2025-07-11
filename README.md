@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please contact:
 - **Email**: muhammedali54254715@gmail.com
 - **GitHub**: [@Muhammedali542](https://github.com/Muhammedali542)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/muhamed-ali-b51605224)
+- **LinkedIn**: [Muhamed Ali](www.linkedin.com/in/muhamed-ali-b51605224)
 
 ---
 
